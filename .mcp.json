@@ -1,0 +1,38 @@
+{
+  "mcpServers": {
+    "market-scout": {
+      "command": ".venv/bin/python",
+      "args": ["tools/market_scout.py"]
+    },
+    "alpaca": {
+      "command": "uvx",
+      "args": ["alpaca-mcp-server==2.4.0"],
+      "env": {
+        "ALPACA_API_KEY": "${ALPACA_API_KEY}",
+        "ALPACA_SECRET_KEY": "${ALPACA_SECRET_KEY}",
+        "ALPACA_PAPER_TRADE": "${ALPACA_PAPER_TRADE:-true}"
+      }
+    },
+    "tastytrade": {
+      "command": "uvx",
+      "args": ["--from", "tastytrade-mcp==1.4.3", "tastytrade-mcp"],
+      "env": {
+        "TASTYTRADE_CLIENT_ID": "${TASTYTRADE_CLIENT_ID}",
+        "TASTYTRADE_CLIENT_SECRET": "${TASTYTRADE_CLIENT_SECRET}",
+        "TASTYTRADE_REFRESH_TOKEN": "${TASTYTRADE_REFRESH_TOKEN}",
+        "TASTYTRADE_USE_PRODUCTION": "${TASTYTRADE_USE_PRODUCTION:-false}"
+      }
+    },
+    "ccxt": {
+      "command": "npx",
+      "args": ["-y", "ccxt-mcp@0.1.3"],
+      "env": {
+        "CCXT_MCP_EXCHANGE": "${CCXT_MCP_EXCHANGE:-coinbase}",
+        "CCXT_MCP_APIKEY": "${CCXT_MCP_APIKEY:-}",
+        "CCXT_MCP_SECRET": "${CCXT_MCP_SECRET:-}",
+        "CCXT_MCP_SANDBOX": "${CCXT_MCP_SANDBOX:-false}",
+        "CCXT_MCP_TRADING": "${CCXT_MCP_TRADING:-false}"
+      }
+    }
+  }
+}
