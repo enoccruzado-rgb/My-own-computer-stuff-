@@ -1,0 +1,19 @@
+# Market data
+yfinance==1.7.0          # free delayed quotes, history, option chains (Yahoo)
+ccxt==4.5.90             # unified API for 100+ crypto exchanges (spot + perps)
+requests==2.34.2         # DexScreener and other REST APIs
+
+# Brokers (stocks, options, futures, crypto)
+alpaca-py==0.44.0        # Alpaca: stocks, options, crypto; free paper trading
+tastytrade==13.2.3       # tastytrade: options + futures, has a sandbox
+schwab-py==1.5.1         # Charles Schwab / thinkorswim API
+ib_async==2.1.0          # Interactive Brokers (TWS / IB Gateway)
+
+# Analysis and backtesting
+pandas-ta-classic==0.8.32  # 150+ technical indicators
+vectorbt==1.2.0            # fast vectorized backtests and parameter sweeps
+backtrader==1.9.78.123     # event-driven backtests, broker simulation
+
+# Tooling
+mcp==2.3.0               # runs tools/market_scout.py as an MCP server
+rich==15.0.0             # pretty terminal tables
