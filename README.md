@@ -5,7 +5,8 @@ Day and swing trading setup for stocks, options, futures, crypto and meme coins:
 ## Quick start
 
 ```bash
-python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+python3 -m venv .venv && .venv/bin/pip install -r requirements.txt   # cloud sessions do this automatically
+.venv/bin/python -m unittest discover -s tests                         # sanity check
 cp .env.example .env          # add the broker keys you have
 set -a; source .env; set +a
 claude                        # MCP servers in .mcp.json load automatically
