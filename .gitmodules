@@ -1,0 +1,30 @@
+[submodule "repos/rea"]
+	path = repos/rea
+	url = https://github.com/morluto/rea
+[submodule "repos/ponytail"]
+	path = repos/ponytail
+	url = https://github.com/DietrichGebert/ponytail
+[submodule "repos/hallmark"]
+	path = repos/hallmark
+	url = https://github.com/nutlope/hallmark
+[submodule "repos/humanizer"]
+	path = repos/humanizer
+	url = https://github.com/blader/humanizer
+[submodule "repos/taste-skill"]
+	path = repos/taste-skill
+	url = https://github.com/senlindesign/taste-skill
+[submodule "repos/impeccable"]
+	path = repos/impeccable
+	url = https://github.com/pbakaus/impeccable
+[submodule "repos/ui-ux-pro-max-skill"]
+	path = repos/ui-ux-pro-max-skill
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+[submodule "repos/last30days-skill"]
+	path = repos/last30days-skill
+	url = https://github.com/mvanhorn/last30days-skill
+[submodule "repos/Scrapling"]
+	path = repos/Scrapling
+	url = https://github.com/D4Vinci/Scrapling
+[submodule "repos/diagram-design"]
+	path = repos/diagram-design
+	url = https://github.com/cathrynlavery/diagram-design
