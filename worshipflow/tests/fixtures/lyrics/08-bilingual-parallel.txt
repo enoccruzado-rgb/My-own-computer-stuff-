@@ -1,0 +1,15 @@
+---
+title: Bilingual Parallel
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+Light has come
+Darkness flees
+[Verse 1 (ES)]
+La luz llegó
+La oscuridad huye
+[Chorus]
+Jesus reigns
+[Chorus (ES)]
+Jesús reina

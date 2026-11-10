@@ -1,0 +1,12 @@
+---
+title: Repeated Bridge
+source: test_fixture
+authorized: true
+arrangement: V1, B x4, V1
+---
+[Verse 1]
+Every step I take
+You are holding me
+[Bridge]
+Nothing can separate us
+From Your love

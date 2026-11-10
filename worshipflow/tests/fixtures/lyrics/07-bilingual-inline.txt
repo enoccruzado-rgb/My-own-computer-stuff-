@@ -1,0 +1,12 @@
+---
+title: Bilingual Inline
+source: test_fixture
+authorized: true
+language: en+es
+---
+[Verse 1]
+You are holy || Tú eres santo
+You are worthy || Tú eres digno
+[Chorus]
+We praise Your name || Alabamos tu nombre
+Forever more || Por siempre más

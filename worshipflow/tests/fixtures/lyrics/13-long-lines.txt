@@ -1,0 +1,8 @@
+---
+title: Long Lines
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+When the night is long and every road I travel seems to fade away
+You remind me of Your promise and You lead me home again

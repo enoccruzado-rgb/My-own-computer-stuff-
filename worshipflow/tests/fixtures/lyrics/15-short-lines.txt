@@ -1,0 +1,12 @@
+---
+title: Short Lines
+source: test_fixture
+authorized: true
+---
+[Chorus]
+Holy, holy
+Holy, holy
+Holy, holy
+Is the Lamb
+Worthy, worthy
+Worthy, worthy

@@ -1,0 +1,14 @@
+---
+title: Long Verse
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+Line one of the verse
+Line two of the verse
+Line three of the verse
+Line four of the verse
+Line five of the verse
+Line six of the verse
+Line seven of the verse
+Line eight of the verse

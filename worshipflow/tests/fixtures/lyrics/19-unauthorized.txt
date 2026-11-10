@@ -1,0 +1,7 @@
+---
+title: Unauthorized Song
+source: user_supplied
+authorized: false
+---
+[Verse 1]
+These words came from somewhere unknown

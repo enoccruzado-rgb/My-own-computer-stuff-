@@ -1,0 +1,16 @@
+---
+title: Abbreviated Arrangement
+source: test_fixture
+authorized: true
+arrangement: V1 C V2 C B x2 C Tag
+---
+[Verse 1]
+Verse one words
+[Chorus]
+Chorus words
+[Verse 2]
+Verse two words
+[Bridge]
+Bridge words
+[Tag]
+Tag words

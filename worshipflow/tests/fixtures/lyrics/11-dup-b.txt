@@ -1,0 +1,9 @@
+---
+title: Same Name Song
+artist: Band B
+version: Live
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+Version B words here

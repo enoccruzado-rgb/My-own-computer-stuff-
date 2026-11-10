@@ -1,0 +1,8 @@
+---
+title: Missing Lyrics
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+[Chorus]
+Only the chorus has words

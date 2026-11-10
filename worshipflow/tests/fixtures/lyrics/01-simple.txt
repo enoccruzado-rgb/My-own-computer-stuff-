@@ -1,0 +1,11 @@
+---
+title: Simple Song
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+You are good
+You are kind
+[Chorus]
+We will sing
+We will shine

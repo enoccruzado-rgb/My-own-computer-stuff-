@@ -1,0 +1,16 @@
+---
+title: Morning Light Bilingual (WorshipFlow Demo)
+artist: WorshipFlow Test Band
+version: Bilingual
+language: en+es
+source: original
+authorized: true
+license: Original test lyrics written for WorshipFlow. Free to use for testing.
+arrangement: V1, C, V1, C x2
+---
+[Verse 1]
+Before the sun breaks over the hills || Antes que el sol salga en los montes
+You are already here || Tú ya estás aquí
+[Chorus]
+Morning light, rise on us || Luz del alba, brilla en nos
+Fill this place with Your love || Llena este lugar de amor

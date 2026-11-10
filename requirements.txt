@@ -17,3 +17,7 @@ backtrader==1.9.78.123     # event-driven backtests, broker simulation
 # Tooling
 mcp==2.3.0               # runs tools/market_scout.py as an MCP server
 rich==15.0.0             # pretty terminal tables
+
+# WorshipFlow (ProPresenter song builder, see worshipflow/)
+protobuf==7.36.2         # reads/writes native ProPresenter .pro files
+pydantic==2.14.3         # typed song model
