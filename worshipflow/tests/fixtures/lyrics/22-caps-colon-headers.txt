@@ -1,0 +1,13 @@
+---
+title: Header Styles
+source: test_fixture
+authorized: true
+---
+VERSE 1
+Caps header words
+Chorus:
+Colon header words
+(Bridge)
+Paren header words
+Pre-Chorus:
+Pre chorus words

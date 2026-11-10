@@ -1,0 +1,6 @@
+out/
+worshipflow.config.json
+*.thumbs/
+__pycache__/
+songs/library/*
+!songs/library/README.md

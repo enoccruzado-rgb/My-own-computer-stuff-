@@ -1,0 +1,10 @@
+---
+title: Single Line Chorus
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+Walking in the morning
+Talking with my Father
+[Chorus]
+Hallelujah, You are here

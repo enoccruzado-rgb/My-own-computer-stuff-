@@ -1,0 +1,12 @@
+---
+title: Canción de Prueba
+language: es
+source: test_fixture
+authorized: true
+---
+[Verso 1]
+Señor, tú eres mi canción
+Mi corazón está en ti
+[Coro]
+¡Aleluya! ¿Quién como tú?
+Por siempre te alabaré

@@ -1,0 +1,14 @@
+---
+title: Instrumental Break
+source: test_fixture
+authorized: true
+---
+[Intro]
+[Verse 1]
+Quiet waters, gentle stream
+You restore my soul again
+[Instrumental]
+[Chorus]
+Shepherd of my heart
+Shepherd of my heart
+[Outro]

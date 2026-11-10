@@ -1,0 +1,12 @@
+{
+  "_comment": "Copy to worshipflow.config.json (git-ignored) and edit. Relative paths are relative to this file.",
+  "library_dirs": ["songs"],
+  "output_dir": "out",
+  "test_import_dir": "out/test-import",
+  "publish_dirs": ["~/Desktop/WorshipFlow Import Inbox"],
+  "production_paths": ["~/Library/Application Support/RenewedVision/ProPresenter"],
+  "default_theme": "standard",
+  "propresenter_host": "127.0.0.1",
+  "propresenter_port": 50001,
+  "allow_ui_automation": false
+}

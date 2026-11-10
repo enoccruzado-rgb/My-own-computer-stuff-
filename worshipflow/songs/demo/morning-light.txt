@@ -1,0 +1,33 @@
+---
+title: Morning Light (WorshipFlow Demo)
+artist: WorshipFlow Test Band
+authors: WorshipFlow (original test song)
+version: Live
+source: original
+authorized: true
+license: Original test lyrics written for WorshipFlow. Free to use for testing.
+arrangement: V1, C, V2, C, B, C
+---
+[Verse 1]
+Before the sun breaks over the hills
+You are already here
+In every quiet, waiting heart
+Your voice is calling clear
+
+[Chorus]
+Morning light, rise on us
+Fill this place with Your love
+We lift our eyes, we lift our song
+You have been faithful all along
+
+[Verse 2]
+When I was lost along the road
+You came and found me there
+You took the weight I could not hold
+And answered every prayer
+
+[Bridge]
+Light of the world (x2)
+Shine, shine on us
+Light of the world
+Shine, shine on us

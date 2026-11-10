@@ -1,0 +1,11 @@
+---
+title: Chorus Variant
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+First verse here
+[Chorus]
+Chorus first time
+[Chorus]
+Chorus with new words

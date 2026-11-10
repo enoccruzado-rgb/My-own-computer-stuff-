@@ -1,0 +1,10 @@
+---
+title: Explicit Breaks
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+One line alone
+
+Two lines here
+And here as well

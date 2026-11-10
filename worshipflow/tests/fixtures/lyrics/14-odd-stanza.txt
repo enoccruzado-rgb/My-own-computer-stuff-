@@ -1,0 +1,9 @@
+---
+title: Odd Stanza
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+Rise up, rise up
+Sons and daughters
+Rise up and sing

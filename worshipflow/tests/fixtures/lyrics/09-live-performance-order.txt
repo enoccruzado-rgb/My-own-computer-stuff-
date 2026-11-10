@@ -1,0 +1,21 @@
+---
+title: Live Performance Order
+version: Live
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+Here I stand before You
+Here I lay it down
+[Chorus]
+Holy is the Lord
+Holy is the Lord
+[Verse 2]
+Here I bring my offering
+Here I wear no crown
+[Chorus]
+Holy is the Lord
+Holy is the Lord
+[Chorus]
+[Tag]
+Holy, holy

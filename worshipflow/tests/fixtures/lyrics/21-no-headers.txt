@@ -1,0 +1,8 @@
+---
+title: No Headers
+source: test_fixture
+authorized: true
+---
+Just some lines
+With no section headers
+At all

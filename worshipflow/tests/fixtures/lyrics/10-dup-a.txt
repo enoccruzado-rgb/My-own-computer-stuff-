@@ -1,0 +1,9 @@
+---
+title: Same Name Song
+artist: Band A
+version: Studio
+source: test_fixture
+authorized: true
+---
+[Verse 1]
+Version A words here

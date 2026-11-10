@@ -1,0 +1,16 @@
+---
+title: Partial Repeat
+source: test_fixture
+authorized: true
+arrangement: V1, C, C [last two lines], Tag
+---
+[Verse 1]
+Open up the heavens
+Let the rain come down
+[Chorus]
+Fall on us now
+Fall on us now
+We are waiting here
+For You alone
+[Tag]
+For You alone

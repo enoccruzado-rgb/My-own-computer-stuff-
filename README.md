@@ -1,3 +1,8 @@
+# My own computer stuff
+
+- **Trading toolkit** (below)
+- **WorshipFlow AI**: builds native ProPresenter song presentations. See [`worshipflow/README.md`](worshipflow/README.md).
+
 # Trading toolkit for Claude Code
 
 Day and swing trading setup for stocks, options, futures, crypto and meme coins: Python libraries, MCP servers Claude can call, and a `trade-plan` skill.
